@@ -26,7 +26,7 @@
             android:title="@string/nexus_updates">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://www.pushbullet.com/channel?tag=purenexus" />
+                android:data="https://www.pushbullet.com" />
         </Preference>
 
         <Preference
@@ -34,7 +34,7 @@
             android:title="@string/nexus_gplus">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://plus.google.com/communities/103055954354785266764" />
+                android:data="https://plus.google.com/communities/111484828545982705724" />
         </Preference>
 
         <Preference
@@ -42,7 +42,7 @@
             android:title="@string/beans_twit">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://twitter.com/BeansTown106" />
+                android:data="https://twitter.com" />
         </Preference>
 
         <Preference
